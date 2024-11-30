@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/shubham-shah-37435825b/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Shubham29op/"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:shubhamshah2908@gmail.com"
+        }
+    ]
+}

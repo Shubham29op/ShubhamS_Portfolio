@@ -1,0 +1,34 @@
+{
+    "experiences": [
+        {
+            "title": "Project Developer,",
+            "subtitle": "All World Gayatri Pariwar",
+            "workType": "Intern",
+            "workDescription": [
+                "Contributed to the **backend development** of a comprehensive Book Campaign System, handling user registrations and inventory management.",
+                "Developed the website from scratch, managing the complete cycle from design to deployment. Improved speed by 50%."
+            ],
+            "dateText": "08/2024 – 11/2024"
+        },
+        {
+            "title": "Cloud Machine Learning Intern,",
+            "subtitle": "Azure Development Community (supported by Microsoft)",
+            "workType": "",
+            "workDescription": [
+                "Engaged in a Cloud Machine Learning Series, building models using Microsoft Azure’s cloud platform.",
+                "Implemented **predictive analysis models**, gaining expertise in cloud-based ML tools."
+            ],
+            "dateText": "June, 2024"
+        },
+        {
+            "title": "Mobile/Web App Design Intern,",
+            "subtitle": "SDX REDX AI",
+            "workType": "Intern",
+            "workDescription": [
+                "Assisted in **designing mobile and web apps** for project development, focusing on user experience enhancements.",
+                "Collaborated with a team of developers to streamline **UI/UX features**."
+            ],
+            "dateText": "December, 2023"
+        }
+    ]
+}

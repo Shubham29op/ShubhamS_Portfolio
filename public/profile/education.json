@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "August 2022 - June 2026(Expected)",
+            "cardTitle": "B.Tech, Computer Science & Engineering",
+            "cardSubtitle":"Somaiya Vidyavihar University, Mumbai",
+            "cardDetailedText": "CGPA - 8.3",
+            "icon" : {
+                "src": "images/education/somaiya-logo.png"
+            }
+        },
+        {
+            "title": "June 2022",
+            "cardTitle": "Senior Secondary Education",
+            "cardSubtitle":"AAVP Junior College, City",
+            "cardDetailedText": "Marks - 71%"
+        },
+        {
+            "title": "Apr 2020",
+            "cardTitle": "High School",
+            "cardSubtitle":"Nanavati Samaj Mandal School, Mumbai",
+            "cardDetailedText": "Marks - 94%"
+        }
+    ]
+}
