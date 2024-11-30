@@ -1,0 +1,111 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React \n - Dark Mode Support",
+            "links": [
+               
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/gayatri.jpg",
+            "title": "Book Campaign System",
+            "bodyText": "- Developed as part of All World Gayatri Pariwar’s initiative \n - Contributed to backend development, creating a platform for managing book distribution campaigns. Features included user registration, inventory management, and real-time tracking of campaign metrics.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Shubham29op/minor_project_bookstall.git"
+                }
+            ],
+            "tags" : [
+                "ReactJS",
+                "Python",
+                "BootStrap",
+                "ChartJS",
+                "MongoDB",
+                "NodeJS"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/clubconnect.jpg",
+            "title": "Somaiya Club Connect",
+            "bodyText": "- Centralized platform for KJ Somaiya Institute, connecting various student clubs on a single website\n - The platform featured event calendars, membership sign-ups, and interactive club profiles, improving student engagement.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Shubham29op/Shubham-Somaiya-Club-Connect.git"
+                }
+            ],
+            "tags" : [
+                "PHP",
+                "Website",
+                "Club Manager",
+                "KJSIT"
+            ]
+        },
+        {
+            "image" : "images/projects/mini12.png",
+            "title": "GameONN",
+            "bodyText": "- Built a comprehensive sports information repository covering 22 sports.\n - sports. Integrated features for searching and filtering information, enhancing user experience by providing detailed rules and statistics for each sport..\n - Uses **MyPHPadmin** database to store texts.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Shubham29op/GameONN.git"
+                }
+            ],
+            "tags" : [
+                "PHP",
+                "Admin-Control",
+                "Dataset"
+                
+            ]
+        },
+        {
+            "title": "Inventory Management",
+            "bodyText": "- An Applet which performs ADD, DELETE and EDIT for Products.\n - Used Python for the layout and MySQL for operations.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Shubham29op/Shubham-Applet.git"
+                }
+            ],
+            "tags" : [
+                "Applet",
+                "Python",
+                "CRUD",
+                "Database"
+                
+            ]
+        },
+        {
+            "title": "Calculator App",
+            "bodyText": "- An Android App used for Basic Mathematical Calculations.\n - With the Reliable Front-End",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Shubham29op/Shubham-Calculator.git"
+                }
+            ],
+            "tags" : [
+                "Calculator",
+                "Android",
+                "JavaScript",
+                "HTML",
+                "Css"
+            
+                
+            ]
+        }
+    ]
+}
